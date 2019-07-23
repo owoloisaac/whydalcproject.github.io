@@ -1,2 +1,3 @@
 # whydalcproject.github.io
-This website is note mobile responsive. thank you.
+please note:
+This website is not mobile responsive. thank you.
